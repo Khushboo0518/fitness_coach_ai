@@ -1,0 +1,116 @@
+Age,Gender,Height (cm),Weight (kg),Goal (e.g. Lose 5 kg),Diet Type,Activity Level,Available Time (minutes/day),output,timestamp
+18,female,157,65,lose 10 kg,indian_veg,moderate,60,,2025-07-05 00:24:09.093759
+20,female,152,70,lose 5 kg,indian_veg,light,60,"'Here is the personalized plan for you:
+
+```
+{
+    ""plan"": {
+        ""estimated_months_to_goal"": 2,
+        ""daily_exercise_plan"": [
+            {""time"": ""Morning"", ""activity"": ""Light Yoga (30 min)"" },
+            {""time"": ""Evening"", ""activity"": ""Short Walk (30 min)"" }
+        ],
+        ""daily_meals"": [
+            {
+                ""meal_type"": ""Breakfast"",
+                ""food_items"": [""Oatmeal with Fruits and Nuts"", ""Veggie Scrambled Eggs""],
+                ""calories"": 400
+            },
+            {
+                ""meal_type"": ""Lunch"",
+                ""food_items"": [""Chana Masala with Whole Wheat Roti"", ""Mixed Greens Salad with Lemon Vinaigrette""],
+                ""calories"": 550
+            },
+            {
+                ""meal_type"": ""Snack"",
+                ""food_items"": [""Fresh Fruit"", ""Roasted Chickpeas with Herbs""],
+                ""calories"": 150
+            },
+            {
+                ""meal_type"": ""Dinner"",
+                ""food_items"": [""Palak Paneer with Brown Rice"", ""Steamed Broccoli with Garlic Naan""],
+                ""calories"": 600
+            }
+        ]
+    }
+}
+```
+
+Here's a breakdown of the plan:
+
+**Estimated months to goal:** Based on your current weight and activity level, I estimate that it will take you approximately 2 months to reach your goal of losing 5 kg.
+
+**Daily Exercise Plan:**
+
+* Morning: Light Yoga (30 min) - This will help improve flexibility, balance, and strength.
+* Evening: Short Walk (30 min) - This will help increase your overall physical activity level and burn some extra calories.
+
+**Daily Meals:**
+
+* Breakfast: Oatmeal with Fruits and Nuts (400 calories), Veggie Scrambled Eggs (200 calories)
+	+ Tips: Start with a bowl of oatmeal cooked with milk and topped with fruits, nuts, and a sprinkle of cinnamon. Add scrambled eggs made with spinach and mushrooms for extra protein.
+* Lunch: Chana Masala with Whole Wheat Roti (550 calories), Mixed Greens Salad with Lemon Vinaigrette (100 calories)
+	+ Tips: Choose whole wheat roti over regular roti to increase fiber intake. Add a side salad with mixed greens, cherry tomatoes, cucumber, and a light vinaigrette.
+* Snack: Fresh Fruit (50 calories), Roasted Chickpeas with Herbs (100 calories)
+	+ Tips: Reach for fresh fruits like apples, bananas, or berries as a quick snack. Alternatively, roast chickpeas with herbs like cumin, coriander, and chili powder for a crunchy snack.
+* Dinner: Palak Paneer with Brown Rice (600 calories), Steamed Broccoli with Garlic Naan (200 calories)
+	+ Tips: Choose brown rice over white rice to increase fiber intake. Add steamed broccoli as a side dish with garlic naan for extra nutrition.
+
+Remember to stay hydrated by drinking plenty of water throughout the day, and adjust your meals based on your personal preferences and dietary needs.",2025-07-05 14:47:25.940486
+20,female,152,70,lose 5 kg,indian_veg,light,60,"'Here is the personalized plan for you:
+
+```
+{
+    ""plan"": {
+        ""estimated_months_to_goal"": 2,
+        ""daily_exercise_plan"": [
+            {""time"": ""Morning"", ""activity"": ""Light Yoga (30 min)"" },
+            {""time"": ""Evening"", ""activity"": ""Short Walk (30 min)"" }
+        ],
+        ""daily_meals"": [
+            {
+                ""meal_type"": ""Breakfast"",
+                ""food_items"": [""Oatmeal with Fruits and Nuts"", ""Veggie Scrambled Eggs""],
+                ""calories"": 400
+            },
+            {
+                ""meal_type"": ""Lunch"",
+                ""food_items"": [""Chana Masala with Whole Wheat Roti"", ""Mixed Greens Salad with Lemon Vinaigrette""],
+                ""calories"": 550
+            },
+            {
+                ""meal_type"": ""Snack"",
+                ""food_items"": [""Fresh Fruit"", ""Roasted Chickpeas with Herbs""],
+                ""calories"": 150
+            },
+            {
+                ""meal_type"": ""Dinner"",
+                ""food_items"": [""Palak Paneer with Brown Rice"", ""Steamed Broccoli with Garlic Naan""],
+                ""calories"": 600
+            }
+        ]
+    }
+}
+```
+
+Here's a breakdown of the plan:
+
+**Estimated months to goal:** Based on your current weight and activity level, I estimate that it will take you approximately 2 months to reach your goal of losing 5 kg.
+
+**Daily Exercise Plan:**
+
+* Morning: Light Yoga (30 min) - This will help improve flexibility, balance, and strength.
+* Evening: Short Walk (30 min) - This will help increase your overall physical activity level and burn some extra calories.
+
+**Daily Meals:**
+
+* Breakfast: Oatmeal with Fruits and Nuts (400 calories), Veggie Scrambled Eggs (200 calories)
+	+ Tips: Start with a bowl of oatmeal cooked with milk and topped with fruits, nuts, and a sprinkle of cinnamon. Add scrambled eggs made with spinach and mushrooms for extra protein.
+* Lunch: Chana Masala with Whole Wheat Roti (550 calories), Mixed Greens Salad with Lemon Vinaigrette (100 calories)
+	+ Tips: Choose whole wheat roti over regular roti to increase fiber intake. Add a side salad with mixed greens, cherry tomatoes, cucumber, and a light vinaigrette.
+* Snack: Fresh Fruit (50 calories), Roasted Chickpeas with Herbs (100 calories)
+	+ Tips: Reach for fresh fruits like apples, bananas, or berries as a quick snack. Alternatively, roast chickpeas with herbs like cumin, coriander, and chili powder for a crunchy snack.
+* Dinner: Palak Paneer with Brown Rice (600 calories), Steamed Broccoli with Garlic Naan (200 calories)
+	+ Tips: Choose brown rice over white rice to increase fiber intake. Add steamed broccoli as a side dish with garlic naan for extra nutrition.
+
+Remember to stay hydrated by drinking plenty of water throughout the day, and adjust your meals based on your personal preferences and dietary needs.",2025-07-05 14:47:34.881622
